@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"02-api-rest-nodejs","dependencies":{"@fastify/cookie":{"version":"8.3.0"},"dotenv":{"version":"16.0.3"},"fastify":{"version":"4.16.3"},"knex":{"version":"2.4.2"},"sqlite3":{"version":"5.1.6"},"zod":{"version":"3.21.4"}}}
